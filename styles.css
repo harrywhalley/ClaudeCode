@@ -110,13 +110,21 @@ body {
 
 .hero-subtitle {
     font-size: 1.2rem;
-    margin-bottom: 2.5rem;
+    margin-bottom: 1rem;
     opacity: 0.95;
     animation: fadeInUp 0.8s ease 0.2s both;
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
     line-height: 1.7;
+}
+
+.hero-author {
+    font-size: 1rem;
+    font-style: italic;
+    opacity: 0.9;
+    margin-bottom: 2.5rem;
+    animation: fadeInUp 0.8s ease 0.3s both;
 }
 
 .hero-buttons {
@@ -403,6 +411,627 @@ body {
     line-height: 1.6;
 }
 
+/* Literature Section */
+.literature {
+    padding: 80px 0;
+    background: var(--bg-white);
+}
+
+.key-distinction {
+    margin: 3rem 0;
+}
+
+.distinction-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.distinction-card {
+    background: var(--bg-light);
+    padding: 2rem;
+    border-radius: 12px;
+    border-left: 4px solid var(--secondary-color);
+}
+
+.distinction-card h4 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+
+.review-structures {
+    margin: 4rem 0;
+}
+
+.structure-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.structure-card {
+    background: var(--bg-white);
+    padding: 2rem;
+    border: 2px solid var(--border-color);
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.structure-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-medium);
+    border-color: var(--accent-color);
+}
+
+.structure-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.structure-card h4 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    font-size: 1.4rem;
+}
+
+.example-label {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.9rem;
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+.tip-box {
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    border-left: 5px solid #f59e0b;
+    padding: 2rem;
+    border-radius: 10px;
+    margin: 3rem 0;
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+}
+
+.tip-box.critical {
+    background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%);
+    border-left-color: #dc2626;
+}
+
+.tip-icon {
+    font-size: 2rem;
+    flex-shrink: 0;
+}
+
+.tip-content h4 {
+    margin-top: 0;
+    color: var(--text-dark);
+    font-size: 1.2rem;
+}
+
+.note-taking {
+    margin: 4rem 0;
+}
+
+.tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.tool-card {
+    background: var(--bg-light);
+    padding: 1.5rem;
+    border-radius: 10px;
+    border: 2px solid var(--primary-color);
+}
+
+.tool-card h4 {
+    color: var(--primary-color);
+    margin-bottom: 0.75rem;
+}
+
+/* Questions Section */
+.questions {
+    padding: 80px 0;
+    background: var(--bg-light);
+}
+
+.rq-qualities {
+    margin: 3rem 0;
+}
+
+.qualities-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.quality-item {
+    background: var(--bg-white);
+    padding: 1.5rem;
+    border-radius: 10px;
+    border-left: 4px solid var(--accent-color);
+    font-weight: 500;
+}
+
+.goldilocks {
+    margin: 4rem 0;
+    background: var(--bg-white);
+    padding: 3rem;
+    border-radius: 12px;
+}
+
+.goldilocks h3 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.goldilocks > p {
+    text-align: center;
+    color: var(--text-light);
+    margin-bottom: 2rem;
+}
+
+.goldilocks-table {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.goldilocks-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+.goldilocks-row.header .goldilocks-cell {
+    background: var(--primary-color);
+    color: var(--bg-white);
+    font-weight: 700;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.goldilocks-cell {
+    background: var(--bg-light);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 2px solid var(--border-color);
+}
+
+.goldilocks-cell.highlight {
+    background: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%);
+    border-color: var(--accent-color);
+    border-width: 3px;
+}
+
+.category-label {
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.journey-box {
+    margin: 4rem 0;
+    background: var(--bg-white);
+    padding: 3rem;
+    border-radius: 12px;
+    border: 2px solid var(--primary-color);
+}
+
+.journey-steps {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.journey-step {
+    flex: 1;
+    min-width: 200px;
+    text-align: center;
+}
+
+.step-number {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background: var(--primary-color);
+    color: var(--bg-white);
+    border-radius: 50%;
+    line-height: 50px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.journey-step h4 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.journey-arrow {
+    font-size: 2rem;
+    color: var(--secondary-color);
+    font-weight: 700;
+}
+
+/* Methodology Section */
+.methodology {
+    padding: 80px 0;
+    background: var(--bg-white);
+}
+
+.methodology-intro {
+    max-width: 800px;
+    margin: 2rem auto;
+    font-size: 1.1rem;
+    text-align: center;
+    color: var(--text-light);
+}
+
+.philosophical-foundation {
+    margin: 4rem 0;
+}
+
+.foundation-intro {
+    text-align: center;
+    font-size: 1.3rem;
+    color: var(--secondary-color);
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.philosophy-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.philosophy-card {
+    background: var(--bg-light);
+    padding: 2.5rem;
+    border-radius: 12px;
+    border-top: 5px solid var(--primary-color);
+}
+
+.philosophy-card.epistemology {
+    border-top-color: var(--secondary-color);
+}
+
+.philosophy-card h4 {
+    color: var(--primary-color);
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+}
+
+.philosophy-card .definition {
+    font-style: italic;
+    color: var(--text-light);
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+}
+
+.stance-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.stance-item {
+    padding: 1rem;
+    background: var(--bg-white);
+    border-radius: 8px;
+    border-left: 3px solid var(--accent-color);
+}
+
+.epistemic-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+}
+
+.epistemic-item {
+    background: var(--bg-white);
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 500;
+    border: 2px solid var(--border-color);
+    transition: all 0.3s ease;
+}
+
+.epistemic-item:hover {
+    border-color: var(--secondary-color);
+    transform: scale(1.05);
+}
+
+.methods-collection {
+    margin: 4rem 0;
+}
+
+.methods-tabs {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.method-category {
+    background: var(--bg-light);
+    padding: 2rem;
+    border-radius: 12px;
+}
+
+.method-category h4 {
+    color: var(--primary-color);
+    margin-bottom: 1.5rem;
+    font-size: 1.3rem;
+}
+
+.method-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.method-tag {
+    background: var(--bg-white);
+    padding: 0.75rem 1.5rem;
+    border-radius: 20px;
+    border: 2px solid var(--primary-color);
+    font-weight: 500;
+    transition: all 0.3s ease;
+    cursor: default;
+}
+
+.method-tag:hover {
+    background: var(--primary-color);
+    color: var(--bg-white);
+}
+
+.methodology-quote {
+    margin: 4rem 0;
+    text-align: center;
+}
+
+.methodology-quote blockquote {
+    font-size: 1.5rem;
+    font-style: italic;
+    color: var(--primary-color);
+    border-left: 5px solid var(--secondary-color);
+    padding-left: 2rem;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+/* Practice Section */
+.practice {
+    padding: 80px 0;
+    background: var(--bg-light);
+}
+
+.par-key-concepts {
+    margin: 4rem 0;
+}
+
+.concept-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.concept-card {
+    background: var(--bg-white);
+    padding: 2rem;
+    border-radius: 12px;
+    border: 2px solid var(--border-color);
+    transition: all 0.3s ease;
+}
+
+.concept-card:hover {
+    border-color: var(--accent-color);
+    box-shadow: var(--shadow-medium);
+}
+
+.concept-number {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: var(--accent-color);
+    color: var(--bg-white);
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+
+.concept-card h4 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.concept-card ul {
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+
+.par-decision {
+    margin: 4rem 0;
+}
+
+.decision-checklist {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.checklist-section {
+    background: var(--bg-white);
+    padding: 2rem;
+    border-radius: 12px;
+    border-left: 5px solid var(--accent-color);
+}
+
+.checklist-section.warning {
+    border-left-color: #f59e0b;
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+}
+
+.checklist-section h4 {
+    margin-bottom: 1.5rem;
+    font-size: 1.3rem;
+}
+
+.check-list, .misconception-list {
+    list-style: none;
+    padding: 0;
+}
+
+.check-list li {
+    padding: 0.75rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.check-list li:before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--accent-color);
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.misconception-list li {
+    padding: 1rem 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.misconception-list li:last-child {
+    border-bottom: none;
+}
+
+.par-vs-pbl {
+    margin: 4rem 0;
+}
+
+.comparison-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.comparison-card {
+    background: var(--bg-white);
+    padding: 2.5rem;
+    border-radius: 12px;
+    border-top: 5px solid var(--secondary-color);
+}
+
+.comparison-card h4 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    font-size: 1.4rem;
+}
+
+.discipline-tag {
+    margin-top: 1.5rem;
+    padding: 0.75rem 1rem;
+    background: var(--bg-light);
+    border-radius: 8px;
+    font-size: 0.9rem;
+    color: var(--secondary-color);
+    font-weight: 600;
+}
+
+/* Writing Section */
+.writing {
+    padding: 80px 0;
+    background: var(--bg-white);
+}
+
+.writing-tips {
+    margin: 4rem 0;
+}
+
+.tips-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.tip-card {
+    background: var(--bg-light);
+    padding: 2rem;
+    border-radius: 12px;
+    border: 2px solid var(--border-color);
+    transition: all 0.3s ease;
+}
+
+.tip-card:hover {
+    border-color: var(--primary-color);
+    box-shadow: var(--shadow-medium);
+}
+
+.tip-emoji {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.tip-card h4 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+
+.tip-card ul {
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+
+.example-box {
+    background: var(--bg-white);
+    padding: 1rem;
+    border-radius: 8px;
+    border-left: 3px solid var(--secondary-color);
+    margin-top: 1rem;
+    font-style: italic;
+    color: var(--text-light);
+}
+
+.editing-continuity {
+    margin: 4rem 0;
+    background: var(--bg-light);
+    padding: 2.5rem;
+    border-radius: 12px;
+    border-left: 5px solid var(--accent-color);
+}
+
+.editing-continuity h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
 /* CTA Section */
 .cta {
     background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary-color) 100%);
@@ -419,44 +1048,71 @@ body {
 
 .cta p {
     font-size: 1.15rem;
-    margin-bottom: 0;
+    margin-bottom: 2rem;
     opacity: 0.95;
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
 }
 
+.cta-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 /* Footer */
 .footer {
     background: var(--text-dark);
     color: var(--bg-white);
-    padding: 2.5rem 0;
-    text-align: center;
+    padding: 3rem 0 2rem;
 }
 
-.footer .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 1rem;
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 3rem;
+    margin-bottom: 2rem;
+}
+
+.footer-info p {
+    margin: 0.5rem 0;
+    opacity: 0.9;
+}
+
+.footer-info p strong {
+    font-size: 1.1rem;
+    opacity: 1;
 }
 
 .footer-links {
     display: flex;
-    gap: 2rem;
+    flex-direction: column;
+    gap: 0.75rem;
 }
 
 .footer a {
     color: var(--bg-white);
     text-decoration: none;
     opacity: 0.8;
-    transition: opacity 0.3s ease;
+    transition: all 0.3s ease;
+    padding: 0.25rem 0;
 }
 
 .footer a:hover {
     opacity: 1;
     color: var(--secondary-color);
+    padding-left: 0.5rem;
+}
+
+.footer-note {
+    text-align: center;
+    opacity: 0.7;
+    font-size: 0.9rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255,255,255,0.2);
+    margin: 0;
 }
 
 /* Animations */
@@ -518,16 +1174,79 @@ body {
         font-size: 2rem;
     }
 
-    .methodology-grid,
-    .techniques-grid,
-    .analysis-grid,
-    .resources-grid {
+    /* Literature Section Responsive */
+    .distinction-grid,
+    .structure-grid,
+    .tools-grid {
         grid-template-columns: 1fr;
     }
 
-    .footer .container {
+    .tip-box {
         flex-direction: column;
+        gap: 1rem;
+    }
+
+    /* Questions Section Responsive */
+    .qualities-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .goldilocks-row {
+        grid-template-columns: 1fr;
+    }
+
+    .goldilocks {
+        padding: 2rem 1.5rem;
+    }
+
+    .journey-steps {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .journey-arrow {
+        transform: rotate(90deg);
+    }
+
+    /* Methodology Section Responsive */
+    .philosophy-cards {
+        grid-template-columns: 1fr;
+    }
+
+    .epistemic-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .methodology-quote blockquote {
+        font-size: 1.2rem;
+        padding-left: 1rem;
+    }
+
+    /* Practice Section Responsive */
+    .concept-grid,
+    .decision-checklist,
+    .comparison-grid {
+        grid-template-columns: 1fr;
+    }
+
+    /* Writing Section Responsive */
+    .tips-grid {
+        grid-template-columns: 1fr;
+    }
+
+    /* Footer Responsive */
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: 2rem;
         text-align: center;
+    }
+
+    .footer-links {
+        align-items: center;
+    }
+
+    .footer a:hover {
+        padding-left: 0;
     }
 }
 
