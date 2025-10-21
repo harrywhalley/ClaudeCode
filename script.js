@@ -64,12 +64,13 @@ document.addEventListener('DOMContentLoaded', function() {
     }, observerOptions);
 
     // Observe all cards for animation on scroll
-    const methodologyCards = document.querySelectorAll('.methodology-card');
-    const techniqueCards = document.querySelectorAll('.technique-card');
-    const analysisCards = document.querySelectorAll('.analysis-card');
-    const resourceCards = document.querySelectorAll('.resource-card');
+    const structureCards = document.querySelectorAll('.structure-card');
+    const conceptCards = document.querySelectorAll('.concept-card');
+    const comparisonCards = document.querySelectorAll('.comparison-card');
+    const tipCards = document.querySelectorAll('.tip-card');
+    const philosophyCards = document.querySelectorAll('.philosophy-card');
 
-    const allCards = [...methodologyCards, ...techniqueCards, ...analysisCards, ...resourceCards];
+    const allCards = [...structureCards, ...conceptCards, ...comparisonCards, ...tipCards, ...philosophyCards];
     allCards.forEach((card, index) => {
         card.style.opacity = '0';
         card.style.transform = 'translateY(30px)';
@@ -130,7 +131,8 @@ document.addEventListener('DOMContentLoaded', function() {
     document.head.appendChild(style);
 
     // Console welcome message
-    console.log('%c PhD Research Methods Hub ', 'background: #1e40af; color: white; padding: 10px; font-size: 16px; font-weight: bold;');
-    console.log('Welcome to your comprehensive guide for research methodologies and techniques.');
-    console.log('Explore quantitative, qualitative, and mixed methods approaches for your doctoral research.');
+    console.log('%c PhD Research Methodology Field Guide ', 'background: #1e40af; color: white; padding: 10px; font-size: 16px; font-weight: bold;');
+    console.log('by J. Harry Whalley - University for the Creative Arts');
+    console.log('A comprehensive resource for practice-based PhD students.');
+    console.log('Navigate: Literature Reviews → Research Questions → Methodology → Practice as Research → Writing');
 });
