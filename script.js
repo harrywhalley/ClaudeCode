@@ -63,12 +63,17 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }, observerOptions);
 
-    // Observe all feature cards
-    const featureCards = document.querySelectorAll('.feature-card');
-    featureCards.forEach((card, index) => {
+    // Observe all cards for animation on scroll
+    const methodologyCards = document.querySelectorAll('.methodology-card');
+    const techniqueCards = document.querySelectorAll('.technique-card');
+    const analysisCards = document.querySelectorAll('.analysis-card');
+    const resourceCards = document.querySelectorAll('.resource-card');
+
+    const allCards = [...methodologyCards, ...techniqueCards, ...analysisCards, ...resourceCards];
+    allCards.forEach((card, index) => {
         card.style.opacity = '0';
         card.style.transform = 'translateY(30px)';
-        card.style.transition = `all 0.6s ease ${index * 0.1}s`;
+        card.style.transition = `all 0.6s ease ${(index % 6) * 0.1}s`;
         observer.observe(card);
     });
 
@@ -125,6 +130,7 @@ document.addEventListener('DOMContentLoaded', function() {
     document.head.appendChild(style);
 
     // Console welcome message
-    console.log('%c Welcome to WebApp! ', 'background: #6366f1; color: white; padding: 10px; font-size: 16px; font-weight: bold;');
-    console.log('This is a modern, responsive homepage built with HTML, CSS, and vanilla JavaScript.');
+    console.log('%c PhD Research Methods Hub ', 'background: #1e40af; color: white; padding: 10px; font-size: 16px; font-weight: bold;');
+    console.log('Welcome to your comprehensive guide for research methodologies and techniques.');
+    console.log('Explore quantitative, qualitative, and mixed methods approaches for your doctoral research.');
 });
