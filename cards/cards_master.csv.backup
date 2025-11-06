@@ -36,51 +36,51 @@ Theory/Framework,Symbolic Interactionism,"Points are only awarded if this card's
 Theory/Framework,Liberal Humanism,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Interpretivism, Objectivism, Pragmatist",+3 (3 Alignments),,,
 Theory/Framework,Postcolonial Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Critical Epistemology, Feminist Epistemology, Interpretivism",+3 (3 Alignments),,,
 Method,Action Research,"Collaborative research where participants and researchers work together to solve real-world problems and create change through cycles of action and reflection.","Critical, Pragmatist",,8,4,8,7
-Method,Archival Research,"Research using primary source documents from archives, libraries, or collections. Requires critical evaluation of historical sources and their provenance.","Positivism, Foucauldian",,1,8,3,2
-Method,Artefact Analysis,"Close examination of physical objects considering materiality, design, use, and cultural significance. Objects are read as texts that reveal cultural meaning.","Material Culture",,1,6,5,4
-Method,Autoethnography,"Reflexive research method where the researcher uses their own lived experience as primary data to explore cultural phenomena, combining autobiography and ethnography.","Feminist, Embodied",,7,2,9,8
-Method,Biographical Method,"In-depth study of individual lives through interviews, documents, and life stories to understand how personal trajectories intersect with social contexts.","Interpretivism",,6,4,7,3
-Method,Case Study,"In-depth investigation of a single instance, event, or bounded system using multiple data sources to understand complexity and context.","Interpretivism",,5,5,7,4
-Method,Content Analysis,"Systematic coding and quantification of text, images, or media to identify patterns. Can be quantitative (counting) or qualitative (thematic).","Positivism",,2,8,3,3
-Method,Creative Writing as Inquiry,"Using creative writing (fiction, poetry, narrative) as a research method to explore and represent findings. Writing becomes thinking and discovery.","Feminist",,5,2,9,7
-Method,Digital Humanities Methods,"Computational approaches to humanities questions including text mining, network analysis, and digital archives, combining technology with interpretation.","Pragmatist Theory",,2,7,4,8
-Method,Discourse Analysis,"Analysis of language use in texts, speech, or media to reveal power relations, ideologies, and social constructions examining how meaning is produced.","Foucauldian, Critical",,3,6,6,6
-Method,Documentary Analysis,"Critical examination of documents (texts, images, recordings) as evidence, considering authorship, purpose, and historical context.","Historical Method",,2,6,5,4
-Method,Drawing as Inquiry,"Using drawing as a research method to explore, represent, and generate knowledge beyond words. The act of drawing produces insights.","Deleuzian/Aesthetic",,1,2,8,8
-Method,Embodied Mapping,"Creating maps through bodily movement and sensory experience, combining cartography with phenomenological attention to how space is lived.","Embodied",,5,3,8,8
-Method,Ethnography,"Immersive fieldwork where the researcher participates in and observes a community or culture over time, producing rich contextual understanding.","Interpretivism, Critical",,7,3,8,5
-Method,Exhibition-as-Research,"Curating and staging exhibitions as a method of knowledge production. The exhibition itself is the research output and argument.","Practice Theory",,3,3,7,7
-Method,Experimental Design,"Controlled research method where researchers manipulate variables to test cause-and-effect using randomization, control groups, and statistical analysis.","Objectivism, Positivism",,6,9,2,5
-Method,Film Analysis,"Critical examination of films considering cinematography, narrative, editing, and cultural context, combining formal and contextual analysis.","Aesthetic",,1,5,6,5
-Method,Focus Groups,"Facilitated group discussions with 6-10 participants to explore collective views, experiences, and interactions, generating data through group dynamics.","Pragmatist",,5,5,7,4
-Method,Grounded Theory,"Iterative qualitative method where theory emerges from systematic data collection and analysis. Researchers develop concepts grounded in empirical data.","Constructivist",,5,6,6,6
-Method,Historical Method,"Systematic investigation of the past using primary and secondary sources, emphasizing chronology, causation, and historical context.","Realism",,1,8,3,2
-Method,Interview (Qualitative),"In-depth, semi-structured conversations with participants to explore experiences, perspectives, and meanings, analyzed thematically or narratively.","Interpretivism",,6,4,8,4
-Method,Longitudinal Study,"Research following the same subjects over an extended period to observe changes and developments over time. Can be quantitative or qualitative.","Realism",,6,7,4,4
-Method,Material Culture Analysis,"Study of physical objects to understand culture, values, and social practices. Objects are read as texts revealing cultural meaning and social relations.","New Materialism",,1,6,6,6
-Method,Mixed-Methods Research,"Combines quantitative and qualitative approaches in a single study. Integration occurs at design, data collection, or interpretation stages.","Pragmatist",,6,6,6,6
-Method,Narrative Inquiry,"Analysis of stories and narratives to understand how people make sense of experiences, focusing on plot, characters, and temporal structure.","Feminist, Queer",,6,4,8,6
-Method,Netnography,"Ethnographic research adapted for online communities and digital cultures, observing and participating in internet-based social interactions.","Digital Humanities",,6,5,7,7
-Method,Oral History,"Recording and analyzing first-person accounts of historical events or lived experiences to preserve memory and subjective historical knowledge.","Interpretivism",,7,4,8,5
-Method,Participatory Methods,"Research conducted with (not on) participants who help design, conduct, and interpret the study, emphasizing empowerment and co-production.","Critical, Feminist",,8,4,8,8
-Method,Performance Ethnography,"Research method using embodied performance to represent and analyze cultural experiences. The body becomes a site of knowledge production.","Embodied, Aesthetic",,7,2,9,8
-Method,Phenomenology,"Philosophical method exploring how people experience phenomena through consciousness using in-depth interviews and first-person accounts.","Embodied",,6,3,9,5
-Method,Practice-Based Research,"Research where creative practice (art, design, performance) is itself a method of inquiry. The artwork or design generates knowledge.","Aesthetic, Embodied",,1,3,7,7
-Method,Semiotic Analysis,"Study of signs and symbols to understand how meaning is created and communicated in texts, images, and cultural phenomena.","Semiotics Theory",,2,7,4,4
-Method,Social Media Mining,"Computational analysis of large-scale social media data to identify trends, networks, and behaviors using algorithms and natural language processing.","Positivism, Digital",,4,8,3,7
-Method,Soundwalk Method,"Research involving attentive listening while moving through an environment to produce knowledge about sonic experiences and acoustic ecology.","Embodied/Aesthetic",,4,3,8,8
-Method,Speculative Design,"Design method using fictional scenarios and prototypes to explore possible futures and provoke critical thinking about technology and society.","Pragmatist",,3,3,7,9
-Method,Statistical Analysis,"Mathematical techniques for analyzing numerical data, identifying patterns, and testing hypotheses including regression, correlation, and significance testing.","Positivism, Realism",,3,9,2,4
-Method,Survey (Quantitative),"Structured questionnaires administered to large samples to collect numerical data, analyzed statistically to identify patterns and test hypotheses.","Positivism, Objectivist",,4,8,3,3
-Method,Textual Analysis,"Close reading and interpretation of texts (literary, cultural, media) to understand meaning, structure, and significance in literary studies.","Semiotics",,1,7,4,2
-Method,Thematic Analysis,"Flexible qualitative method for identifying, analyzing, and reporting patterns (themes) across a dataset, widely used across disciplines.","Interpretivism",,4,6,6,4
-Method,VR Ethnography,"Ethnographic research conducted in virtual reality environments studying how people interact, socialize, and create meaning in VR spaces.","Embodied, Aesthetic",,7,4,7,9
-Method,Visual Analysis,"Systematic study of visual objects (art, photos, design) examining composition, symbolism, and cultural meaning through formal and semiotic approaches.","Semiotics",,1,6,5,4
-Method,Walking Interview,"Interviews conducted while walking through places relevant to the research. Movement and place elicit memories and situated knowledge.","Embodied",,6,4,8,7
-Method,Cultural Probes,"Design research method providing participants with kits (cameras, diaries, maps) to document their lives, generating evocative subjective data about lived experience.","Pragmatist, Embodied, Design",,4,5,7,7
-Method,Corpus Linguistics,"Computer-aided analysis of large text collections (corpora) to study language patterns, frequencies, and usage, combining computational and linguistic methods.","Positivism, Digital Humanities",,2,8,4,6
-Method,Critical Discourse Analysis,"Examines how language perpetuates power inequalities and social injustice by combining linguistic analysis with critical social theory.","Critical, Foucauldian",,4,6,7,6
-Method,Memory-Work Method,"Feminist collective inquiry method where groups analyze their own memories to understand how social forces shape personal experience. Developed by Frigga Haug.","Feminist",,6,3,8,6
+Method,Archival Research,,"Positivism, Foucauldian",,1,8,3,2
+Method,Artefact Analysis,,"Material Culture",,1,6,5,4
+Method,Autoethnography,,"Feminist, Embodied",,7,2,9,8
+Method,Biographical Method,,"Interpretivism",,6,4,7,3
+Method,Case Study,,"Interpretivism",,5,5,7,4
+Method,Content Analysis,,"Positivism",,2,8,3,3
+Method,Creative Writing as Inquiry,,"Feminist",,5,2,9,7
+Method,Digital Humanities Methods,,"Pragmatist Theory",,2,7,4,8
+Method,Discourse Analysis,,"Foucauldian, Critical",,3,6,6,6
+Method,Documentary Analysis,,"Historical Method",,2,6,5,4
+Method,Drawing as Inquiry,,"Deleuzian/Aesthetic",,1,2,8,8
+Method,Embodied Mapping,,"Embodied",,5,3,8,8
+Method,Ethnography,,"Interpretivism, Critical",,7,3,8,5
+Method,Exhibition-as-Research,,"Practice Theory",,3,3,7,7
+Method,Experimental Design,,"Objectivism, Positivism",,6,9,2,5
+Method,Film Analysis,,"Aesthetic",,1,5,6,5
+Method,Focus Groups,,"Pragmatist",,5,5,7,4
+Method,Grounded Theory,,"Constructivist",,5,6,6,6
+Method,Historical Method,,"Realism",,1,8,3,2
+Method,Interview (Qualitative),,"Interpretivism",,6,4,8,4
+Method,Longitudinal Study,,"Realism",,6,7,4,4
+Method,Material Culture Analysis,,"New Materialism",,1,6,6,6
+Method,Mixed-Methods Research,,"Pragmatist",,6,6,6,6
+Method,Narrative Inquiry,,"Feminist, Queer",,6,4,8,6
+Method,Netnography,,"Digital Humanities",,6,5,7,7
+Method,Oral History,,"Interpretivism",,7,4,8,5
+Method,Participatory Methods,,"Critical, Feminist",,8,4,8,8
+Method,Performance Ethnography,,"Embodied, Aesthetic",,7,2,9,8
+Method,Phenomenology,,"Embodied",,6,3,9,5
+Method,Practice-Based Research,,"Aesthetic, Embodied",,1,3,7,7
+Method,Semiotic Analysis,,"Semiotics Theory",,2,7,4,4
+Method,Social Media Mining,,"Positivism, Digital",,4,8,3,7
+Method,Soundwalk Method,,"Embodied/Aesthetic",,4,3,8,8
+Method,Speculative Design,,"Pragmatist",,3,3,7,9
+Method,Statistical Analysis,,"Positivism, Realism",,3,9,2,4
+Method,Survey (Quantitative),,"Positivism, Objectivist",,4,8,3,3
+Method,Textual Analysis,,"Semiotics",,1,7,4,2
+Method,Thematic Analysis,,"Interpretivism",,4,6,6,4
+Method,VR Ethnography,,"Embodied, Aesthetic",,7,4,7,9
+Method,Visual Analysis,,"Semiotics",,1,6,5,4
+Method,Walking Interview,,"Embodied",,6,4,8,7
+Method,Cultural Probes,,"Pragmatist, Embodied",,4,5,7,7
+Method,Corpus Linguistics,,"Positivism, Digital Humanities",,2,8,4,6
+Method,Critical Discourse Analysis,,"Critical, Foucauldian",,4,6,7,6
+Method,Memory-Work Method,,"Feminist",,6,3,8,6
 Method,Sensory Ethnography,"Ethnographic approach emphasizing non-visual senses (sound, smell, touch, taste) in understanding culture and experience.","Embodied, Aesthetic",,7,3,9,7
 Method,Usability Testing,"Evaluating products or interfaces by testing them with representative users to identify usability problems and gather feedback.","Pragmatist, Design",,5,7,6,6
 Method,Iconographic Analysis,"Study of symbolism, allegory, and meaning in visual art. Identifies and interprets subject matter and symbolic content of images.","Interpretivism, Art History",,2,6,7,4

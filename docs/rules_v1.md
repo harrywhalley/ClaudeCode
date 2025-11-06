@@ -6,17 +6,17 @@ Methodology Match is a card game designed for arts, design, and humanities PhD r
 
 ## 2. Game Components
 
-The full game consists of 118 cards:
+The full game consists of 153 cards:
 
 - 5 Ontology Cards (Realism, Relativism, Constructivism, Critical Realism, Relational Ontology)
 - 9 Epistemology Cards
 - 22 Theory/Framework Cards
-- 47 Method Cards
+- 82 Method Cards
 - 20 Object-of-Study Cards
 - 15 unique Event Cards
 
 **Players**: 2-5 players
-**Play Time**: 30-45 minutes
+**Play Time**: 45-60 minutes (expanded deck)
 
 ## 3. Objective
 
