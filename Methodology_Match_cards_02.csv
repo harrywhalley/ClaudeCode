@@ -1,0 +1,112 @@
+Card Type,Title,Text / Effect,Alignment / Synergy,Points Bonus,Ethical Risk,Reproducibility,Sensibility,Novelty
+Ontology,Realism,"Realism says the world has a stable structure that exists whether or not we observe it. Gameplay Effect: +2 points when using causal or quantitative methods.",,,,
+Ontology,Relativism,"Relativism argues that what we call 'reality' changes with culture, language, and history. Gameplay Effect: May hold contradictory findings and blocks generalisation bonuses from Realist players.",,,,
+Ontology,Constructivism,"Constructivism sees reality as something people build together through conversation, symbols, and shared practice. Gameplay Effect: Draw one extra Method after completing a qualitative stack.",,,,
+Epistemology,Positivism,"Compatible Ontology: Realism. Incompatible: Autoethnography, Discourse Analysis.","Surveys, Experiments, Statistical Modelling, Content Analysis, Social Media Mining",,,,
+Epistemology,Interpretivism,"Compatible Ontology: Relativism, Constructivism.","Interviews, Case Studies, Ethnography, Textual Analysis, Oral History",,,,
+Epistemology,Critical Epistemology,"Compatible Ontology: Realism, Constructivism.","Discourse Analysis, Action Research, Participatory Methods, Forensic Aesthetics",,,,
+Epistemology,Feminist Epistemology,"Compatible Ontology: Relativism, Constructivism. Incompatible: Positivism.","Autoethnography, Narrative Inquiry, Participatory Methods, Zine-Making, Voice-Centred Method",,,,
+Epistemology,Constructivist Epistemology,"Compatible Ontology: Relativism, Constructivism.","Grounded Theory, Actor-Network Theory, Symbolic Interactionism, Reader-Response",,,,
+Epistemology,Embodied Epistemology,"Compatible Ontology: Relativism, Constructivism.","Performance Ethnography, Walking Interview, Embodied Mapping, Soundwalk Method, Affect Theory",,,,
+Epistemology,Aesthetic Epistemology,"Compatible Ontology: Relativism, Constructivism. Incompatible: Positivism, Realism.","Practice-Based Research, Film Analysis, Soundscape Analysis, VR Ethnography, Affect Theory",,,,
+Epistemology,Pragmatist,"Compatible Ontology: All.","Mixed-Methods Research, Focus Groups, Action Research, Actor-Network Theory, Practice Theory",,,,
+Epistemology,Objectivism,"Compatible Ontology: Realism. Incompatible: Constructivism.","Experimental Design, Survey (Quantitative), Structuralism, Semiotics Theory, Marxist Theory",,,,
+Theory/Framework,Hermeneutics,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.",Interpretivism,+7 (1 Alignment),,,
+Theory/Framework,Narratology,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.",Objectivism,+7 (1 Alignment),,,
+Theory/Framework,New Criticism/Formalism,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.",Objectivism,+7 (1 Alignment),,,
+Theory/Framework,Pragmatist Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.",Pragmatist,+7 (1 Alignment),,,
+Theory/Framework,Structuralism,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.",Objectivism,+7 (1 Alignment),,,
+Theory/Framework,Actor-Network Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Pragmatist, Constructivist Epistemology",+5 (2 Alignments),,,
+Theory/Framework,Affect Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Embodied Epistemology, Aesthetic Epistemology",+5 (2 Alignments),,,
+Theory/Framework,Bourdieu Field Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Critical Epistemology, Interpretivism",+5 (2 Alignments),,,
+Theory/Framework,Critical Race Theory (CRT),"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Critical Epistemology, Feminist Epistemology",+5 (2 Alignments),,,
+Theory/Framework,Feminist Standpoint Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Feminist Epistemology, Critical Epistemology",+5 (2 Alignments),,,
+Theory/Framework,Foucauldian Power Analysis,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Critical Epistemology, Interpretivism",+5 (2 Alignments),,,
+Theory/Framework,Intersectionality,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Feminist Epistemology, Critical Epistemology",+5 (2 Alignments),,,
+Theory/Framework,Marxist Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Critical Epistemology, Objectivism",+5 (2 Alignments),,,
+Theory/Framework,Phenomenology,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Embodied Epistemology, Interpretivism",+5 (2 Alignments),,,
+Theory/Framework,Post-structuralism,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Critical Epistemology, Interpretivism",+5 (2 Alignments),,,
+Theory/Framework,Psychoanalytic Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Interpretivism, Aesthetic Epistemology",+5 (2 Alignments),,,
+Theory/Framework,Queer Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Feminist Epistemology, Critical Epistemology",+5 (2 Alignments),,,
+Theory/Framework,Reader-Response Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Interpretivism, Constructivist Epistemology",+5 (2 Alignments),,,
+Theory/Framework,Semiotics Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Interpretivism, Objectivism",+5 (2 Alignments),,,
+Theory/Framework,Symbolic Interactionism,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Interpretivism, Constructivist Epistemology",+5 (2 Alignments),,,
+Theory/Framework,Liberal Humanism,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Interpretivism, Objectivism, Pragmatist",+3 (3 Alignments),,,
+Theory/Framework,Postcolonial Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Critical Epistemology, Feminist Epistemology, Interpretivism",+3 (3 Alignments),,,
+Method,Action Research,,"Critical, Pragmatist",,8,4,8,7
+Method,Archival Research,,"Positivism, Foucauldian",,1,8,3,2
+Method,Artefact Analysis,,"Material Culture",,1,6,5,4
+Method,Autoethnography,,"Feminist, Embodied",,7,2,9,8
+Method,Biographical Method,,"Interpretivism",,6,4,7,3
+Method,Case Study,,"Interpretivism",,5,5,7,4
+Method,Content Analysis,,"Positivism",,2,8,3,3
+Method,Creative Writing as Inquiry,,"Feminist",,5,2,9,7
+Method,Digital Humanities Methods,,"Pragmatist Theory",,2,7,4,8
+Method,Discourse Analysis,,"Foucauldian, Critical",,3,6,6,6
+Method,Documentary Analysis,,"Historical Method",,2,6,5,4
+Method,Drawing as Inquiry,,"Deleuzian/Aesthetic",,1,2,8,8
+Method,Embodied Mapping,,"Embodied",,5,3,8,8
+Method,Ethnography,,"Interpretivism, Critical",,7,3,8,5
+Method,Exhibition-as-Research,,"Practice Theory",,3,3,7,7
+Method,Experimental Design,,"Objectivism, Positivism",,6,9,2,5
+Method,Film Analysis,,"Aesthetic",,1,5,6,5
+Method,Focus Groups,,"Pragmatist",,5,5,7,4
+Method,Grounded Theory,,"Constructivist",,5,6,6,6
+Method,Historical Method,,"Realism",,1,8,3,2
+Method,Interview (Qualitative),,"Interpretivism",,6,4,8,4
+Method,Longitudinal Study,,"Realism",,6,7,4,4
+Method,Material Culture Analysis,,"New Materialism",,1,6,6,6
+Method,Mixed-Methods Research,,"Pragmatist",,6,6,6,6
+Method,Narrative Inquiry,,"Feminist, Queer",,6,4,8,6
+Method,Netnography,,"Digital Humanities",,6,5,7,7
+Method,Oral History,,"Interpretivism",,7,4,8,5
+Method,Participatory Methods,,"Critical, Feminist",,8,4,8,8
+Method,Performance Ethnography,,"Embodied, Aesthetic",,7,2,9,8
+Method,Phenomenology,,"Embodied",,6,3,9,5
+Method,Practice-Based Research,,"Aesthetic, Embodied",,1,3,7,7
+Method,Semiotic Analysis,,"Semiotics Theory",,2,7,4,4
+Method,Social Media Mining,,"Positivism, Digital",,4,8,3,7
+Method,Soundwalk Method,,"Embodied/Aesthetic",,4,3,8,8
+Method,Speculative Design,,"Pragmatist",,3,3,7,9
+Method,Statistical Analysis,,"Positivism, Realism",,3,9,2,4
+Method,Survey (Quantitative),,"Positivism, Objectivist",,4,8,3,3
+Method,Textual Analysis,,"Semiotics",,1,7,4,2
+Method,Thematic Analysis,,"Interpretivism",,4,6,6,4
+Method,VR Ethnography,,"Embodied, Aesthetic",,7,4,7,9
+Method,Visual Analysis,,"Semiotics",,1,6,5,4
+Method,Walking Interview,,"Embodied",,6,4,8,7
+Object-of-Study,19th-Century Novels,"Focuses on the literary output of the 1800s.",,,,
+Object-of-Study,Contemporary Theatre Productions,"The study of modern plays and performance art.",,,,
+Object-of-Study,Post-War Architecture,"Examines buildings and urban planning after major conflicts.",,,,
+Object-of-Study,National Cinema Movements,"The study of films and filmmaking styles from a specific country.",,,,
+Object-of-Study,Digital Media & Online Communities,"Research into how people interact on the internet.",,,,
+Object-of-Study,Museums & Heritage Sites,"Focuses on the curation and cultural role of museums.",,,,
+Object-of-Study,Political Speeches & Rhetoric,"The analysis of political language and persuasion.",,,,
+Object-of-Study,Folk Music Traditions,"The study of traditional, community-based music.",,,,
+Object-of-Study,Identity & Consumer Culture,"Examines identity through branding and consumption.",,,,
+Object-of-Study,Protest Movements & Social Change,"Research into the methods and impact of activism.",,,,
+Object-of-Study,Renaissance Painting,"The study of painting from the 14th to the 17th century.",,,,
+Object-of-Study,Memory & Oral Histories,"Focuses on how memories are constructed and passed down.",,,,
+Object-of-Study,Modernist Poetry,"The study of early 20th-century poets who broke with tradition.",,,,
+Object-of-Study,Video Game Narratives,"Focuses on storytelling and world-building in video games.",,,,
+Object-of-Study,Fashion & Subculture,"Examines clothing as a marker of identity.",,,,
+Object-of-Study,Documentary Film,"Analysis of non-fiction films and their claims to truth.",,,,
+Object-of-Study,Children's Literature,"Research into books for children.",,,,
+Object-of-Study,Sacred Texts & Religious Art,"The study of religious scriptures or artworks.",,,,
+Object-of-Study,The Contemporary Art Biennale,"A study of large-scale international art exhibitions.",,,,
+Object-of-Study,Unpublished Archives,"Research based on private letters, diaries, or uncatalogued documents.",,,,
+Event,Ethics Committee Revision,"Add an 'Ethical Risk' of +2 to one Method card in any stack.",,,,
+Event,Fieldwork Delay,"Target player must discard one unscored Method card from one of their stacks.",,,,
+Event,Funding Boost,"Draw 2 cards from the draw pile.",,,,
+Event,Equipment Failure,"Target one Method card in an opponent's stack. They must discard one card from their hand to keep it.",,,,
+Event,Interlibrary Loan Miracle,"Draw 1 Theory/Framework card from the draw pile or the discard pile.",,,,
+Event,Conference Deadline,"Immediately score a chosen stack (min 1 Method) but it scores as a Mixed Paradigm (+3 points), ignoring other Paradigm bonuses or penalties.",,,,
+Event,Reviewer 2 Demands Revisions,"Re-open an opponent's completed stack. They must add one more Method card to it on their next turn to re-complete it.",,,,
+Event,Access Granted,"Remove 1 Ethical Risk from a Method card containing Archival, Survey, or Digital Humanities Method.",,,,
+Event,Participant Withdrawal,"A player using a method with Ethical Risk of 6 or higher must discard that Method or discard 2 cards from their hand.",,,,
+Event,Major Breakthrough,"Choose one of your incomplete research stacks. Immediately score it as a Coherent Paradigm (+10 points), ignoring any incompatibilities or minimum Method requirements.",,,,
+Event,Prestigious Fellowship,"For the rest of the game, your maximum hand size is increased to 9 cards. Additionally, immediately search the draw pile or the discard pile for any one card and add it to your hand.",,,,
+Event,Catastrophic Hard Drive Failure,"Choose an opponent. They must immediately discard their most developed (most cards) incomplete research stack.",,,,
+Event,Data Failure: Cloud Service Hack,"'password12345' wasn't secure. This is bad for you. Choose one of your incomplete stacks. All Method cards in it have their Reproducibility and Sensibility scores permanently reduced to 1. If you have no incomplete stacks, discard 3 cards.",,,,
+Event,Interdisciplinary Symposium,"Starting with you, every player draws two cards. Afterwards, every player must discard one card.",,,,
+Event,University-Wide Restructuring,"'Senior management receive 50 bonus coins (even though coins are not part of this game).' All players must move one card from each of their incomplete stacks to the discard pile. Then, discard down to 5 cards in hand.",,,,
