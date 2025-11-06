@@ -6,14 +6,17 @@ Methodology Match is a card game designed for arts, design, and humanities PhD r
 
 ## 2. Game Components
 
-The full game consists of 116 cards:
+The full game consists of 118 cards:
 
-- 3 Ontology Cards
+- 5 Ontology Cards (Realism, Relativism, Constructivism, Critical Realism, Relational Ontology)
 - 9 Epistemology Cards
 - 22 Theory/Framework Cards
 - 47 Method Cards
 - 20 Object-of-Study Cards
 - 15 unique Event Cards
+
+**Players**: 2-5 players
+**Play Time**: 30-45 minutes
 
 ## 3. Objective
 
@@ -21,10 +24,15 @@ To win the game, you must have the highest total score when the game ends. Point
 
 ## 4. Game Setup
 
-1. **Secret Ontology**: Separate the 3 Ontology cards from the rest. Shuffle them and deal one face-down to each player. Players may look at their own Ontology card, but must keep it secret from their opponents. This card is the foundation of your first Research Stack. Place any unused Ontology cards back in the box.
+1. **Ontology Draft**: Separate the 5 Ontology cards from the rest. Lay them face-up where all players can see them. Starting with a randomly chosen player and proceeding clockwise, each player selects one Ontology card and places it face-down in front of them. Players may look at their own Ontology card at any time, but must keep it secret from their opponents. This card is the foundation of your first Research Stack. Return any unused Ontology cards to the box.
+   - **2-3 Player Variant**: For more strategic depth, deal each player 2 random Ontology cards face-down. Each player looks at both and chooses one to keep, returning the other to the box secretly.
+
 2. **Shared Object**: Shuffle the 20 Object-of-Study cards and place them face-down. Reveal the top card and place it in the center of the table. This is the shared research topic for all players for this game.
+
 3. **Create the Deck**: Shuffle all remaining cards (Epistemology, Theory/Framework, Method, and Event cards) together to form the main draw pile.
+
 4. **Deal Hands**: Deal 7 cards from the main deck to each player as their starting hand.
+
 5. **Play Area**: Place the draw pile face-down, leaving space next to it for a discard pile.
 
 ## 5. Gameplay
@@ -72,12 +80,22 @@ This is the main way to score points from a stack.
 
 ### 7.2. Supplemental Scores
 
+- **Ontology Bonus**: Each Ontology card provides a unique bonus if specific conditions are met:
+  - **Realism**: +2 points if your stack includes a Method with Reproducibility 8 or higher
+  - **Relativism**: +2 points if your stack includes Methods from different paradigms (e.g., one with Reproducibility 7+ and one with Sensibility 7+)
+  - **Constructivism**: When you complete a stack with 2 or more Methods with Sensibility 7+, draw 1 card (then discard down to 7)
+  - **Critical Realism**: +3 points if your stack includes Methods with both high Reproducibility (6+) AND high Sensibility (6+)
+  - **Relational Ontology**: +3 points if your stack includes Participatory Methods, Action Research, or Ethnography
+
 - **Theory Bonus (Tiered)**: Theory/Framework cards award points only if their alignment matches the Epistemology in the same stack. Unaligned theories are worth 0 points.
   - Highly Specialized (1 Alignment): +7 Points
   - Standard Focus (2 Alignments): +5 Points
   - Broad/Flexible (3 Alignments): +3 Points
+
 - **Object-of-Study Affinity**: Add +2 points if your stack is thematically aligned with the shared Object-of-Study card.
+
 - **Ethical Penalty**: Subtract -1 point for each Method card in the stack with an Ethical Risk rating of 7 or higher.
+
 - **Cutting-Edge Bonus**: Add +3 points if the average Novelty score of all Method cards in the stack is 7 or higher.
 
 ### 7.3. Final Scoring (End of Game)
