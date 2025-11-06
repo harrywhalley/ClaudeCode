@@ -11,6 +11,7 @@ Epistemology,Embodied Epistemology,"Compatible Ontology: Relativism, Constructiv
 Epistemology,Aesthetic Epistemology,"Compatible Ontology: Relativism, Constructivism. Incompatible: Positivism, Realism.","Practice-Based Research, Film Analysis, Soundscape Analysis, VR Ethnography, Affect Theory",,,,
 Epistemology,Pragmatist,"Compatible Ontology: All.","Mixed-Methods Research, Focus Groups, Action Research, Actor-Network Theory, Practice Theory",,,,
 Epistemology,Objectivism,"Compatible Ontology: Realism. Incompatible: Constructivism.","Experimental Design, Survey (Quantitative), Structuralism, Semiotics Theory, Marxist Theory",,,,
+Epistemology,New Materialism,"Compatible Ontology: Relativism, Constructivism.","Material Culture Analysis, Artefact Analysis",,,,
 Theory/Framework,Hermeneutics,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.",Interpretivism,+7 (1 Alignment),,,
 Theory/Framework,Narratology,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.",Objectivism,+7 (1 Alignment),,,
 Theory/Framework,New Criticism/Formalism,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.",Objectivism,+7 (1 Alignment),,,
@@ -33,48 +34,49 @@ Theory/Framework,Semiotics Theory,"Points are only awarded if this card's alignm
 Theory/Framework,Symbolic Interactionism,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Interpretivism, Constructivist Epistemology",+5 (2 Alignments),,,
 Theory/Framework,Liberal Humanism,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Interpretivism, Objectivism, Pragmatist",+3 (3 Alignments),,,
 Theory/Framework,Postcolonial Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Critical Epistemology, Feminist Epistemology, Interpretivism",+3 (3 Alignments),,,
-Method,Action Research,,"Critical, Pragmatist",,8,4,8,7
-Method,Archival Research,,"Positivism, Foucauldian",,1,8,3,2
-Method,Artefact Analysis,,"Material Culture",,1,6,5,4
-Method,Autoethnography,,"Feminist, Embodied",,7,2,9,8
+Theory/Framework,Practice Theory,"Points are only awarded if this card's alignment matches the Epistemology in the same stack.","Pragmatist, Aesthetic Epistemology",+5 (2 Alignments),,,
+Method,Action Research,,"Critical Epistemology, Pragmatist",,8,4,8,7
+Method,Archival Research,,"Positivism, Critical Epistemology",,1,8,3,2
+Method,Artefact Analysis,,"New Materialism",,1,6,5,4
+Method,Autoethnography,,"Feminist Epistemology, Embodied Epistemology",,7,2,9,8
 Method,Biographical Method,,"Interpretivism",,6,4,7,3
 Method,Case Study,,"Interpretivism",,5,5,7,4
 Method,Content Analysis,,"Positivism",,2,8,3,3
-Method,Creative Writing as Inquiry,,"Feminist",,5,2,9,7
+Method,Creative Writing as Inquiry,,"Feminist Epistemology",,5,2,9,7
 Method,Digital Humanities Methods,,"Pragmatist Theory",,2,7,4,8
-Method,Discourse Analysis,,"Foucauldian, Critical",,3,6,6,6
-Method,Documentary Analysis,,"Historical Method",,2,6,5,4
-Method,Drawing as Inquiry,,"Deleuzian/Aesthetic",,1,2,8,8
-Method,Embodied Mapping,,"Embodied",,5,3,8,8
-Method,Ethnography,,"Interpretivism, Critical",,7,3,8,5
+Method,Discourse Analysis,,"Critical Epistemology",,3,6,6,6
+Method,Documentary Analysis,,"Interpretivism, Critical Epistemology",,2,6,5,4
+Method,Drawing as Inquiry,,"Aesthetic Epistemology, Embodied Epistemology",,1,2,8,8
+Method,Embodied Mapping,,"Embodied Epistemology",,5,3,8,8
+Method,Ethnography,,"Interpretivism, Critical Epistemology",,7,3,8,5
 Method,Exhibition-as-Research,,"Practice Theory",,3,3,7,7
 Method,Experimental Design,,"Objectivism, Positivism",,6,9,2,5
-Method,Film Analysis,,"Aesthetic",,1,5,6,5
+Method,Film Analysis,,"Aesthetic Epistemology",,1,5,6,5
 Method,Focus Groups,,"Pragmatist",,5,5,7,4
-Method,Grounded Theory,,"Constructivist",,5,6,6,6
-Method,Historical Method,,"Realism",,1,8,3,2
+Method,Grounded Theory,,"Constructivist Epistemology",,5,6,6,6
+Method,Historical Method,,"Positivism, Interpretivism",,1,8,3,2
 Method,Interview (Qualitative),,"Interpretivism",,6,4,8,4
-Method,Longitudinal Study,,"Realism",,6,7,4,4
+Method,Longitudinal Study,,"Positivism",,6,7,4,4
 Method,Material Culture Analysis,,"New Materialism",,1,6,6,6
 Method,Mixed-Methods Research,,"Pragmatist",,6,6,6,6
-Method,Narrative Inquiry,,"Feminist, Queer",,6,4,8,6
-Method,Netnography,,"Digital Humanities",,6,5,7,7
+Method,Narrative Inquiry,,"Feminist Epistemology, Critical Epistemology",,6,4,8,6
+Method,Netnography,,"Interpretivism, Constructivist Epistemology",,6,5,7,7
 Method,Oral History,,"Interpretivism",,7,4,8,5
-Method,Participatory Methods,,"Critical, Feminist",,8,4,8,8
-Method,Performance Ethnography,,"Embodied, Aesthetic",,7,2,9,8
-Method,Phenomenology,,"Embodied",,6,3,9,5
-Method,Practice-Based Research,,"Aesthetic, Embodied",,1,3,7,7
-Method,Semiotic Analysis,,"Semiotics Theory",,2,7,4,4
-Method,Social Media Mining,,"Positivism, Digital",,4,8,3,7
-Method,Soundwalk Method,,"Embodied/Aesthetic",,4,3,8,8
+Method,Participatory Methods,,"Critical Epistemology, Feminist Epistemology",,8,4,8,8
+Method,Performance Ethnography,,"Embodied Epistemology, Aesthetic Epistemology",,7,2,9,8
+Method,Phenomenology,,"Embodied Epistemology",,6,3,9,5
+Method,Practice-Based Research,,"Aesthetic Epistemology, Embodied Epistemology",,1,3,7,7
+Method,Semiotic Analysis,,"Interpretivism, Objectivism",,2,7,4,4
+Method,Social Media Mining,,"Positivism",,4,8,3,7
+Method,Soundwalk Method,,"Embodied Epistemology, Aesthetic Epistemology",,4,3,8,8
 Method,Speculative Design,,"Pragmatist",,3,3,7,9
-Method,Statistical Analysis,,"Positivism, Realism",,3,9,2,4
-Method,Survey (Quantitative),,"Positivism, Objectivist",,4,8,3,3
-Method,Textual Analysis,,"Semiotics",,1,7,4,2
+Method,Statistical Analysis,,"Positivism, Objectivism",,3,9,2,4
+Method,Survey (Quantitative),,"Positivism, Objectivism",,4,8,3,3
+Method,Textual Analysis,,"Interpretivism, Objectivism",,1,7,4,2
 Method,Thematic Analysis,,"Interpretivism",,4,6,6,4
-Method,VR Ethnography,,"Embodied, Aesthetic",,7,4,7,9
-Method,Visual Analysis,,"Semiotics",,1,6,5,4
-Method,Walking Interview,,"Embodied",,6,4,8,7
+Method,VR Ethnography,,"Embodied Epistemology, Aesthetic Epistemology",,7,4,7,9
+Method,Visual Analysis,,"Interpretivism, Objectivism",,1,6,5,4
+Method,Walking Interview,,"Embodied Epistemology",,6,4,8,7
 Object-of-Study,19th-Century Novels,"Focuses on the literary output of the 1800s.",,,,
 Object-of-Study,Contemporary Theatre Productions,"The study of modern plays and performance art.",,,,
 Object-of-Study,Post-War Architecture,"Examines buildings and urban planning after major conflicts.",,,,
