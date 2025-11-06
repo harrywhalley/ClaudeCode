@@ -6,7 +6,7 @@ Methodology Match is a card game designed for arts, design, and humanities PhD r
 
 ## 2. Game Components
 
-The full game consists of 118 cards:
+The full game consists of 116 cards:
 
 - 3 Ontology Cards
 - 10 Epistemology Cards
