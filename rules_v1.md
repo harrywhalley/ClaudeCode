@@ -6,14 +6,38 @@ Methodology Match is a card game designed for arts, design, and humanities PhD r
 
 ## 2. Game Components
 
-The full game consists of 114 cards:
+The full game consists of 118 cards:
 
 - 3 Ontology Cards
-- 9 Epistemology Cards
-- 20 Theory/Framework Cards
+- 10 Epistemology Cards
+- 21 Theory/Framework Cards
 - 47 Method Cards
 - 20 Object-of-Study Cards
 - 15 unique Event Cards
+
+### Card Type Details
+
+**Ontology Cards (3):**
+- Realism
+- Relativism
+- Constructivism
+
+**Epistemology Cards (10):**
+- Positivism
+- Interpretivism
+- Critical Epistemology
+- Feminist Epistemology
+- Constructivist Epistemology
+- Embodied Epistemology
+- Aesthetic Epistemology
+- Pragmatist
+- Objectivism
+- New Materialism
+
+**Theory/Framework Cards (21):**
+- Highly Specialized (1 Alignment - 7 points): Hermeneutics, Narratology, New Criticism/Formalism, Pragmatist Theory, Structuralism
+- Standard Focus (2 Alignments - 5 points): Actor-Network Theory, Affect Theory, Bourdieu Field Theory, Critical Race Theory, Feminist Standpoint Theory, Foucauldian Power Analysis, Intersectionality, Marxist Theory, Phenomenology, Post-structuralism, Practice Theory, Psychoanalytic Theory, Queer Theory, Reader-Response Theory, Semiotics Theory, Symbolic Interactionism
+- Broad/Flexible (3 Alignments - 3 points): Liberal Humanism, Postcolonial Theory
 
 ## 3. Objective
 
@@ -26,6 +50,14 @@ To win the game, you must have the highest total score when the game ends. Point
 3. **Create the Deck**: Shuffle all remaining cards (Epistemology, Theory/Framework, Method, and Event cards) together to form the main draw pile.
 4. **Deal Hands**: Deal 7 cards from the main deck to each player as their starting hand.
 5. **Play Area**: Place the draw pile face-down, leaving space next to it for a discard pile.
+
+### Ontology Special Effects
+
+Each Ontology card has a unique gameplay effect:
+
+- **Realism**: When you complete a Research Stack containing this Ontology, gain +2 bonus points if the stack includes at least one Method with a Reproducibility score of 7 or higher.
+- **Relativism**: Your completed Research Stacks may contain Methods with contradictory epistemological approaches. You do not suffer the Incompatible Paradigm penalty even if your Ontology and Epistemology are listed as incompatible, but you also cannot earn the Coherent Paradigm bonus (you always receive Mixed Paradigm +3 points instead).
+- **Constructivism**: When you complete a Research Stack containing this Ontology, if at least one Method in the stack has a Sensibility score of 7 or higher, immediately draw one additional card from the draw pile.
 
 ## 5. Gameplay
 
@@ -67,11 +99,14 @@ Stacks are scored immediately when they are completed. Scoring is broken into th
 This is the main way to score points from a stack.
 
 - **Coherent Paradigm (+10 Points)**: Awarded if your stack's Ontology is compatible with its Epistemology, AND at least one Method card has a listed synergy with that Epistemology.
-- **Incompatible Paradigm (-5 Points)**: Applied if your stack's Ontology and Epistemology are explicitly listed as incompatible on the cards.
+- **Incompatible Paradigm (-5 Points)**: Applied if your stack's Ontology and Epistemology are explicitly listed as incompatible on the cards. Check your Epistemology card to see which Ontologies it lists as "Incompatible" (if any).
 - **Mixed Paradigm (+3 Points)**: Awarded for any other completed stack that does not meet the above criteria.
+
+**Note**: Epistemology cards list compatible and incompatible Ontologies. Method cards list which Epistemologies they synergize with. Always check both the Epistemology and Method cards when building your stacks.
 
 ### 7.2. Supplemental Scores
 
+- **Ontology Bonus**: Apply your Ontology card's special effect (see section 4: Ontology Special Effects). This may award bonus points or trigger card draws.
 - **Theory Bonus (Tiered)**: Theory/Framework cards award points only if their alignment matches the Epistemology in the same stack. Unaligned theories are worth 0 points.
   - Highly Specialized (1 Alignment): +7 Points
   - Standard Focus (2 Alignments): +5 Points
